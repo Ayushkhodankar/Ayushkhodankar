@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ayushkhodankar.
+- 👋 Hi, I’m Ayush Khodankar.
 - 👀 I’m interested in designing new projects.
 - 🌱 I’m currently learning Advance Java.
 - ✌️ I’m looking to collaborate on on-going projects.
