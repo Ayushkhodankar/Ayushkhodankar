@@ -28,11 +28,14 @@
 
 ## 📊 My Github Stats
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayushkhodankar&show_icons=true&locale=en&layout=compact" alt="ayushkhodankar" /></p><br/>
+<a href="https://github.com/Ayushkhodankar/github-readme-stats"><img alt="Rajlaxmi Meshram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ayushkhodankar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+ <a href="https://github.com/Ayushkhodankar/github-readme-stats"><img alt="Rajlaxmi Meshram's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkhodankar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ayushkhodankar&show_icons=true&locale=en" alt="ayushkhodankar" /></p>
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkhodankar&" alt="ayushkhodankar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkhodankar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="ayushkhodankar" /></p>
+
+
+  <br/>
 
 
 <a href="https://github.com/Ayushkhodankar/github-readme-activity-graph"><img alt="Ayush Khodankar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ayushkhodankar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
