@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushkhodankar&label=Profile%20views&color=0e75b6&style=flat" alt="ayushkhodankar" /> </p>
-
+<img align ="right" alt="developer" width="400" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
 - 🌱 I’m currently learning **Java Spring Boot & Cloud Services**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
