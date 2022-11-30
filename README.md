@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [here.](https://drive.google.com/file/d/1IfHd7AGGdIx_ljRwSR-Rg68Gf-zysfdM/view)
 
-- ⚡ Fun fact ****
+- ⚡ Fun fact **I am the Head of Discipline Committee in Student Council😂**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
