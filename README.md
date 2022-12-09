@@ -39,8 +39,9 @@
 
   <br/>
 
-
-<a href="https://github.com/Ayushkhodankar/github-readme-activity-graph"><img alt="Ayush Khodankar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ayushkhodankar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<!---
+<a href="https://github.com/Ayushkhodankar/github-readme-activity-graph"><img alt="Ayush Khodankar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ayushkhodankar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> --->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayushkhodankar&theme=github_dark)
 
 <!---
 Ayushkhodankar/Ayushkhodankar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
