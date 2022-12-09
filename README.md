@@ -1,8 +1,15 @@
-<h1 align="center">Hi 👋, I'm Ayush Khodankar</h1>
-<h3 align="center">A Passionate Full Stack Java Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushkhodankar&label=Profile%20views&color=0e75b6&style=flat" alt="ayushkhodankar" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushkhodankar" alt="ayushkhodankar" /></a> </p>
+<h1 align="center">Hi , I'm Ayush Khodankar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=;Aspiring+MERN+Stack+Development;Full+Stack+Java+Developer"></img></a>
+     
+<br/>
+<div align="center">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushkhodankar&label=Profile%20views&color=236ad3&labelColor=1155ba&style=for-the-badge" alt="ayushkhodankar" /> <br/>
+<a href="https://github.com/Ayushkhoodankar?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Ayushkhodankar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" align="center" width="130"/></a></p>
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushkhodankar" alt="ayushkhodankar" /></a> </p>
+</div>
 <img align ="right" alt="developer" width="400" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif"></img>
 
 - 🌱 I’m currently learning **Java Spring Boot & Cloud Services**
