@@ -10,9 +10,9 @@
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Ayushkhodankar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" align="right" width="130"/></a>
       </div>
 <br>
-<p align="center">
-     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushkhodankar" alt="ayushkhodankar" /></a> </p>
-<br>
+<!--<p align="center">
+     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushkhodankar" alt="ayushkhodankar" /></a> </p>-->
+
 <img align ="right" alt="developer" width="400" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif"></img>
 
 - 🌱 I’m currently learning **Java Spring Boot & Cloud Services**
