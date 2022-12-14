@@ -50,7 +50,27 @@
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+<img src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white/>&nbsp;&nbsp;&nbsp;
+<img src=https://img.shields.io/badge/C-2980b9?style=for-the-badge&logo=c&logoColor=white/>&nbsp;&nbsp;&nbsp;
+<img src=https://img.shields.io/badge/Java-43b02a?style=for-the-badge&logo=java&logoColor=white/>&nbsp;&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PHP-FF6C37?style=for-the-badge&logo=PHP&logoColor=white"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Javascript-ED8B00?style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/HTML5-14354C?style=for-the-badge&logo=Html5&logoColor=white" />&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/CSS3-39457E?style=for-the-badge&logo=CSS3&logoColor=white" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Bootstrap-D24939?style=for-the-badge&logo=Bootstrap&logoColor=white"/>&nbsp;&nbsp;
+ <img src=https://img.shields.io/badge/Node.js-4C9A2A?style=for-the-badge&logo=node.js&logoColor=white />&nbsp;&nbsp;
+ <img src="https://img.shields.io/badge/reactJs-1AA7AC?style=for-the-badge&logo=react&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Spring-56D686?style=for-the-badge&logo=spring&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MySQL-0078d7?style=for-the-badge&logo=mysql&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/.net-797ef6?style=for-the-badge&logo=dotnet&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/C sharp-663399?style=for-the-badge&logo=Csharp&logoColor=white"/>&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Mongodb-658354?style=for-the-badge&logo=mongodb&logoColor=white"/>&nbsp;&nbsp;
+<!--<img src="https://img.shields.io/badge/Angular-ff0000?style=for-the-badge&logo=angular&logoColor=white"/>&nbsp;&nbsp;-->
+</p>
 
 ## 📊 My Github Stats
 
