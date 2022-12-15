@@ -21,8 +21,6 @@
 
 - 💬 Ask me about **Java Frameworks & IDEs**
 
-- 📫 How to reach me **ayushkhodankar01@gmail.com**
-
 - 📄 Know about my experiences [here.](https://drive.google.com/file/d/1qkHbC2PAdUZxFPX0VHzaFAxbOTDlmfde/view?usp=share_link)
 
 - ⚡ Fun fact **I am the Head of Discipline Committee in Student Council😂**
