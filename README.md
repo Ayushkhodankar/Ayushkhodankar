@@ -87,6 +87,9 @@
 <a href="https://github.com/Ayushkhodankar/github-readme-activity-graph"><img alt="Ayush Khodankar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ayushkhodankar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> --->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayushkhodankar&theme=github_dark)
 
+
+<p dir="auto">Leave a <g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png">⭐</g-emoji> to <a href="https://github.com/Ayushkhodankar/Ayushkhodankar">this repository</a> ,if you like. <g-emoji class="g-emoji" alias="grin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f601.png">😁</g-emoji></p>
+
 <!---
 Ayushkhodankar/Ayushkhodankar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
