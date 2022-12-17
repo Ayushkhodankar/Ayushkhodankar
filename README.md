@@ -71,7 +71,7 @@
 </p>
 
 ## 📊 My Github Stats
-
+<div align="center">
 <a href="https://github.com/Ayushkhodankar/github-readme-stats"><img alt="Rajlaxmi Meshram's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ayushkhodankar&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
  <a href="https://github.com/Ayushkhodankar/github-readme-stats"><img alt="Rajlaxmi Meshram's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkhodankar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
@@ -84,7 +84,7 @@
 <!---
 <a href="https://github.com/Ayushkhodankar/github-readme-activity-graph"><img alt="Ayush Khodankar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ayushkhodankar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> --->
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ayushkhodankar&theme=github_dark)
-
+</div>
 
 <p dir="auto">Leave a <g-emoji class="g-emoji" alias="star" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2b50.png">⭐</g-emoji> to <a href="https://github.com/Ayushkhodankar/Ayushkhodankar">this repository</a> ,if you like. <g-emoji class="g-emoji" alias="grin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f601.png">😁</g-emoji></p>
 
