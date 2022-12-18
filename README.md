@@ -77,9 +77,7 @@
 
 <br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkhodankar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="ayushkhodankar" /></p>
-
-
-  <br/>
+<br/>
 
 <!---
 <a href="https://github.com/Ayushkhodankar/github-readme-activity-graph"><img alt="Ayush Khodankar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Ayushkhodankar&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a> --->
