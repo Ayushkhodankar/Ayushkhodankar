@@ -1,7 +1,7 @@
 
 <h1 align="center" >Hi , I'm Ayush Khodankar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <div align= "center">
-      
+     
 <a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=Full+Stack+Java+Developer"></img></a>
      </div>
 <br/>
@@ -25,7 +25,7 @@
 - 📄 Know about my experiences [here.](https://drive.google.com/file/d/1qkHbC2PAdUZxFPX0VHzaFAxbOTDlmfde/view?usp=share_link)
 
 - ⚡ Fun fact **I am the Head of Discipline Committee in Student Council😂**
-<br>
+<br> 
 
 <h3 align="left">Connect with me:</h3>
 <div align="left" dir="auto">
