@@ -2,7 +2,7 @@
 <div align= "center">
      
 <a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=Full+Stack+Java+Developer"></img></a>
-     </div>
+     </div> 
 <br/>
 <div align="left"> 
      <img src="https://komarev.com/ghpvc/?username=ayushkhodankar&label=Profile%20views&color=236ad3&labelColor=1155ba&style=for-the-badge" alt="ayushkhodankar" /> 
