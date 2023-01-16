@@ -1,5 +1,5 @@
 <h1 align="center" >Hi , I'm Ayush Khodankar <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<div align= "center">
+<div align="center">
      
 <a href="#" align="center"><img src="https://readme-typing-svg.herokuapp.com?color=FFF&center=true&lines=Full+Stack+Java+Developer"></img></a>
      </div> 
@@ -77,6 +77,7 @@
  <a href="https://github.com/Ayushkhodankar/github-readme-stats"><img alt="Rajlaxmi Meshram's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayushkhodankar&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
 <br/>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ayushkhodankar&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="ayushkhodankar" /></p>
 <br/>
 
@@ -91,3 +92,4 @@
 Ayushkhodankar/Ayushkhodankar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+  
