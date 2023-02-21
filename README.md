@@ -10,7 +10,7 @@
 <a href="https://github.com/Ayushkhoodankar?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/Ayushkhodankar?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" align="right" width="130"/></a>
    </div>
-<br>
+<br> 
 <!--<p align="center">
      <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushkhodankar" alt="ayushkhodankar" /></a> </p>-->
 
