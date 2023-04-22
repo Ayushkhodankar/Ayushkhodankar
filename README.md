@@ -16,6 +16,7 @@
 
 <img align ="right" alt="developer" width="400" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif"></img>
 
+
 - 🌱 I’m currently learning **Java Spring Boot & Cloud Services**
 
 - 👯 I’m looking to collaborate on **Open Source Projects & Cloud Based Projects**
@@ -24,7 +25,6 @@
 
 - 📄 Know about my experiences [here.](https://drive.google.com/file/d/1qkHbC2PAdUZxFPX0VHzaFAxbOTDlmfde/view?usp=share_link)
 
-- ⚡ Fun fact **I am the Head of Discipline Committee in Student Council😂**
 <br> 
 
 <h3 align="left">Connect with me:</h3>
