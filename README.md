@@ -23,7 +23,7 @@
 
 - 💬 Ask me about **Java Frameworks & IDEs**
 
-- 📄 Know about my experiences [here.](https://drive.google.com/file/d/1qkHbC2PAdUZxFPX0VHzaFAxbOTDlmfde/view?usp=share_link)
+- 📄 Know about my experiences [here.](https://drive.google.com/file/d/1fu0kA8K1VSgs1-VgrdI5VP9qHGyxZnFA/view?usp=sharing)
 
 <br> 
 <!--
